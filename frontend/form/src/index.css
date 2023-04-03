@@ -1,0 +1,77 @@
+
+label{
+  color: gray;
+  display: block;
+  font-weight: 700;
+  margin: 0 0 0 .5rem;
+  text-transform: uppercase;
+}
+input{
+  /* border-color: black; */
+  border-style: solid;
+  font-weight: 700;
+  padding: 0.5rem;
+  margin: 0 0 1rem;
+}
+#registerForm{
+  background-color: #FFFFFF;
+  /* border:solid  2px; */
+  padding: 10px;
+  display: inline-block;
+  width: 400px;
+  margin-top: 40px;
+border-radius: 15px;
+height: 400px;
+}
+#registerForm:hover{
+ margin-top: 30px;
+  box-shadow: gray 1px 1px 10px 10px;
+}
+#title{
+  /* border:  solid black 2px; */
+  display: inline-block;
+  width: 40%;
+  /* margin: 10px; */
+  margin-top: 140px;
+  margin-left: 40px;
+}
+.submit{
+
+    background-color: #1877f2;
+    border: none;
+    border-radius: 16px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 232px;
+    margin-left: 90px;
+}
+.mainCOntainer{
+  background-color: #aba7a72b;
+  /* border: solid black 1px; */
+height: 100vh;
+display: flex;
+}
+.facebook{
+  color: #006bf7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xxx-large;
+margin-left: 90px;
+}
+.loginPage{
+  align-items: center;
+  padding: 40px;
+  height: 100vh;
+}
+.loginForm{
+  display: inline-block;
+  border: solid black 2px;
+  /* margin-left: 30%;  */
+  height: 300px;
+  padding: 40px;
+  margin-top: 50px; 
+}
+.blur{
+  opacity: 1;
+  visibility: 20%;
+}
